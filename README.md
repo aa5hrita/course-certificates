@@ -21,7 +21,7 @@
 ## DevOps
 ![KK Docker](certs-jpg/KK_Docker.jpg)
 
-![KK Kubernetes](certs-jpg/K8s.jpg)
+![KK Kubernetes](certs-jpg/KK_K8s.jpg)
 
 ## AWS Cloud
 ![AWS Cloud Practitioner](certs-jpg/AWS_CP.jpg)
