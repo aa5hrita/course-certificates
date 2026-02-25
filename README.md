@@ -1,29 +1,24 @@
 # Upskilling Course Certificates
 
 ## Spring
-![Spring Security](certs-jpg/SS.jpg)
+<img src="certs-jpg/SS.jpg" width="800" height="600"/>
 
 ## Apache Kafka
-![Kafka Beginners](certs-jpg/SM_AK1.jpg)
-
-![Kafka Connect](certs-jpg/SM_AK2.jpg)
-
-![Kafka Streams](certs-jpg/SM_AK3.jpg)
+<img src="certs-jpg/SM_AK1.jpg" width="800" height="600"/>
+<img src="certs-jpg/SM_AK2.jpg" width="800" height="600"/>
+<img src="certs-jpg/SM_AK3.jpg" width="800" height="600"/>
 
 ## Microservices
-![EB Event Driven MSs](certs-jpg/EDM.jpg)
-
-![DG MS Design Patterns](certs-jpg/MS_DesignPatterns.jpg)
+<img src="certs-jpg/EDM.jpg" width="800" height="600"/>
+<img src="certs-jpg/MS_DesignPatterns.jpg" width="800" height="600"/>
 
 ## System Design
-![SD Fundamentals](certs-jpg/SD_Fundamentals.jpg)
+<img src="certs-jpg/SD_Fundamentals.jpg" width="800" height="600"/>
 
 ## DevOps
-![KK Docker](certs-jpg/KK_Docker.jpg)
-
-![KK Kubernetes](certs-jpg/KK_K8s.jpg)
+<img src="certs-jpg/KK_Docker.jpg" width="800" height="600"/>
+<img src="certs-jpg/KK_K8s.jpg" width="800" height="600"/>
 
 ## AWS Cloud
-![AWS Cloud Practitioner](certs-jpg/AWS_CP.jpg)
-
+<img src="certs-jpg/AWS_CP.jpg" width="800" height="600"/>
 <img src="certs-jpg/AWS_DA.jpg" width="800" height="600"/>
