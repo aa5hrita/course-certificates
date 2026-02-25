@@ -1,6 +1,8 @@
 # Upskilling Course Certificates
 
 ## Spring
+[External image description](certs-jpg/SS.jpg)
+
 <img src="certs-jpg/SS.jpg" width="800" height="600"/>
 
 ## Apache Kafka
