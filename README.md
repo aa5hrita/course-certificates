@@ -25,3 +25,5 @@
 
 ## AWS Cloud
 ![AWS Cloud Practitioner](certs-jpg/AWS_CP.jpg)
+
+<img src="certs-jpg/AWS_DA.jpg" width="300" />
