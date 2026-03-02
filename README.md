@@ -1,7 +1,7 @@
 # Upskilling Course Certificates
 
 ## Spring
-[External image description](certs-jpg/SS.jpg)
+Udemy - Spring Security 6 Zero to Master by Stephan Maarek - [View Course Certificate](certs-jpg/SS.jpg)
 
 <img src="certs-jpg/SS.jpg" width="800" height="600"/>
 
