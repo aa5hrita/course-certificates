@@ -33,5 +33,5 @@
 | Course Provider | Instructor | Course | Course Certficate Link |
 |---|---|---|---|
 | Udemy | Stephan Maarek | AWS Cloud Practitioner - Foundational | [View Course Certificate](certs-jpg/AWS_CP.jpg) |
-| Udemy | Stephan Maarek | AWS Solution Architect - Associate | [ToDo](certs-jpg/AWS_SAA.jpg) |
+| Udemy | Stephan Maarek | AWS Solution Architect - Associate | [View Course Certificate](certs-jpg/AWS_SAA.jpg) |
 | Udemy | Stephan Maarek | AWS Developer - Associate | [View Course Certificate](certs-jpg/AWS_DA.jpg) |
